@@ -13,7 +13,7 @@ Como funciona?
 
 Cada pessoa funciona como uma Unidade da Livreria Virtual (LV). 
 
-Para disponibilizar um livro para a comunidade, basta se cadastrar no site e informar que está disponibilizando seu livro.
+Para disponibilizar um livro para a comunidade, basta se cadastrar no site e informar o livro que está disponibilizando.
 
 A partir desse momento, seu livro será exibido nas estantes da LV para todos os usuários cadastrados.
 
